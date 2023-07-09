@@ -8,10 +8,11 @@ html {
 h1 {
   color: #fff;
   padding: 10px;
+  text-align: center;
 }
 
 .title {
-  text-align: center;
+  text-transform: uppercase;
 }
 
 .imagebg {
